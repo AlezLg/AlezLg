@@ -3,7 +3,7 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
 
-![AlezLg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkweGQxOXdpbDBrOWNjZ24xeWZ3MTR6Z3BjbHJ1cWFrMzhoNG4zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif)
+![AlezLg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxud3RmY2gydm03aHlwNms2N2RzZTNjMGRjOGppbmxwNmVuaDFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WopbjaQ3JCjvLpDXJg/giphy.gif)
 
 ### 🚀 **¿Qué estoy haciendo?**
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
