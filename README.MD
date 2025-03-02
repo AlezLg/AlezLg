@@ -2,7 +2,6 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
----
 
 ## Habilidades Técnicas 🛠️
 
@@ -26,3 +25,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## Contacto 📫
+
+¡No dudes en contactarme si quieres colaborar, tienes alguna pregunta o simplemente quieres charlar!
+
+- 📧 **Email:** [alex@email.com](mailto:alex@email.com)
+- 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 🌐 **Portafolio:** [Mi portafolio](https://tu-portafolio.com)
+- 🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)
+
+---
+
+¡Gracias por visitar mi perfil! 😄
