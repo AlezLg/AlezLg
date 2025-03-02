@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+---
 ## 📫 ¿Quieres contactarme?
 
 ¡Hola! Si tienes alguna pregunta, idea para colaborar o simplemente quieres charlar, no dudes en escribirme. Estoy siempre abierto a nuevas oportunidades y conexiones.
