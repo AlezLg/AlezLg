@@ -1,7 +1,7 @@
 # ¡Hola, soy Alex! 👋
 
 <!--  -->
-<img aling="right" whdth="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1MmJ2MXZqbTAwYm5zYWphbHVrZG4zNHQwZ3N4NjA3bG9nejA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Mi foto" width="200" />
+<img aling="center" whdth="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1MmJ2MXZqbTAwYm5zYWphbHVrZG4zNHQwZ3N4NjA3bG9nejA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Mi foto" width="200" />
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
 ### 🚀 **¿Qué estoy haciendo?**
