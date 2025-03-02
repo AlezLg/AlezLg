@@ -1,5 +1,5 @@
 # ¡Hola, soy Alex! 👋
-
+<!--  -->
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
 ### 🚀 **¿Qué estoy haciendo?**
