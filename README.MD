@@ -1,9 +1,10 @@
 # ¡Hola, soy Alex! 👋
 
+
+
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías.![AlezLg](https://i.giphy.com/OLPQ6z2hlHmwFc4Hso.webp) Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
-
-![AlezLg](https://i.giphy.com/OLPQ6z2hlHmwFc4Hso.webp)
+<img align="right" src="https://i.giphy.com/OLPQ6z2hlHmwFc4Hso.webp" alt="Mi foto" width="200" />
 
 ### 🚀 **¿Qué estoy haciendo?**
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
