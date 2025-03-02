@@ -7,10 +7,10 @@
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
 - 📚 **Aprendiendo:** Profundizando en desarrollo backend, IoT con Arduino y nuevas tecnologías.
 - 🤝 **Colaborando en:** Proyectos de desarrollo web y aplicaciones móviles. ¡Me encanta trabajar en equipo!
-</div>
 
   <img aling="right" whdth="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1MmJ2MXZqbTAwYm5zYWphbHVrZG4zNHQwZ3N4NjA3bG9nejA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Mi foto" width="200" />
 
+</div>
 ## Habilidades Técnicas 🛠️
 
 ### Lenguajes de Programación
