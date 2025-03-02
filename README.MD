@@ -2,13 +2,21 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
+<table>
+  <tr>
+    <td width="50%">
 ### 🚀 **¿Qué estoy haciendo?**
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
 - 📚 **Aprendiendo:** Profundizando en desarrollo backend, IoT con Arduino y nuevas tecnologías.
 - 🤝 **Colaborando en:** Proyectos de desarrollo web y aplicaciones móviles. ¡Me encanta trabajar en equipo!
+    </td>
 
-<img aling="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1MmJ2MXZqbTAwYm5zYWphbHVrZG4zNHQwZ3N4NjA3bG9nejA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Mi foto" width="200" />
+<td width="50%">
+  <img" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1MmJ2MXZqbTAwYm5zYWphbHVrZG4zNHQwZ3N4NjA3bG9nejA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Mi foto" width="200" />
 
+  </td>
+  </tr>
+</table>
 
 ## Habilidades Técnicas 🛠️
 
