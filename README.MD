@@ -3,7 +3,7 @@
 <!--  -->
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyNDhkbTA5N28zd3I5dngwZWFnZW9zdnFmMHkybnc1eW51NHdhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" alt="Mi foto" width="250px" />
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
-
+<br>
 ### 🚀 **¿Qué estoy haciendo?**
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
 - 📚 **Aprendiendo:** Profundizando en desarrollo backend, IoT con Arduino y nuevas tecnologías.
