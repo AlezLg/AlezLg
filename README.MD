@@ -30,7 +30,7 @@
 
 ¡No dudes en contactarme si quieres colaborar, tienes alguna pregunta o simplemente quieres charlar!
 
-- 📧 **Email:** [alex@email.com](mailto:alex@email.com)
+- 📧 **Email:** [frutel1234@gmail.com](mailto:frutel1234@gmail.com)
 - 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
 - 🌐 **Portafolio:** [Mi portafolio](https://tu-portafolio.com)
 - 🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)
