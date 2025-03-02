@@ -1,7 +1,5 @@
 # ¡Hola, soy Alex! 👋
 
-
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9rYXg4ZmI4Z3I2azBsenFpbnM5eWx1NTRtaG9iN3RweGR0ZXEwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Mi foto" width="220px" />
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
 
@@ -14,6 +12,7 @@
 ## Habilidades Técnicas 🛠️
 
 ### Lenguajes de Programación
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9rYXg4ZmI4Z3I2azBsenFpbnM5eWx1NTRtaG9iN3RweGR0ZXEwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Mi foto" width="220px" />
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
