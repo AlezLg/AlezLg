@@ -30,8 +30,6 @@
 
 ¡No dudes en contactarme si quieres colaborar, tienes alguna pregunta o simplemente quieres charlar! Estoy siempre abierto a nuevas oportunidades y conexiones.
 
-- 📧 **Email:** [frutel1234@gmail.com](mailto:frutel1234@gmail.com)
-- 🎮 **Discord:** alezlg
-- 📸 **Instagram:** [@alezlg](https://www.instagram.com/alezlg/)
-
----
+[![Email](https://img.shields.io/badge/Email-frutel1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frutel1234@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-alezlg-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-id-de-discord)
+[![Instagram](https://img.shields.io/badge/Instagram-@alezlg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alezlg/)
