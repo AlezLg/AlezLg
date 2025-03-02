@@ -10,7 +10,7 @@
 
 
 ## Habilidades Técnicas 🛠️
-<img align="right" src="https://digitalroar.ae/img/web-development.gif" alt="Mi foto" width="300px"/>
+<img align="right" src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif" alt="Mi foto" width="300px"/>
 
 ### Lenguajes de Programación
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
