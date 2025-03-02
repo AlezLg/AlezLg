@@ -2,20 +2,11 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
----
 
-## Sobre mí �
-
-- 🔭 **Actualmente estoy trabajando en:** Proyectos relacionados con desarrollo web y aplicaciones interactivas.
-- 🌱 **Estoy aprendiendo:** Profundizando en React, Node.js y desarrollo de aplicaciones IoT con Arduino.
-- 👯 **Busco colaborar en:** Proyectos relacionados con desarrollo web, aplicaciones móviles, o automatización con Arduino.
-- 🤔 **Busco ayuda con:** Mejorar mis habilidades en backend y explorar nuevas tecnologías.
-- 💬 **Pregúntame sobre:** Desarrollo frontend, diseño web, o cómo integrar hardware y software con Arduino.
-- 📫 **Cómo contactarme:** [alex@email.com](mailto:alex@email.com) | [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Portafolio](https://tu-portafolio.com).
-- 😄 **Pronombres:** Él.
-- ⚡ **Dato curioso:** ¡Me encanta combinar creatividad y tecnología para resolver problemas!
-
----
+### 🚀 **¿Qué estoy haciendo?**
+- 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
+- 📚 **Aprendiendo:** Profundizando en desarrollo backend, IoT con Arduino y nuevas tecnologías.
+- 🤝 **Colaborando en:** Proyectos de desarrollo web y aplicaciones móviles. ¡Me encanta trabajar en equipo!
 
 
 ## Habilidades Técnicas 🛠️
