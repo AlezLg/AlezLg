@@ -1,5 +1,4 @@
 # ¡Hola, soy Alex! 👋 
-<img align="right" src="<img align="right" src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif" alt="Mi foto" width="260px"/>" alt="Mi foto" width="20px"/>
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
