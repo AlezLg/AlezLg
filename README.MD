@@ -10,7 +10,7 @@
 
 
 ## Habilidades Técnicas 🛠️
-<img align="right" src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif" alt="Mi foto" width="260px"/>
+<img align="right" src="https://cdn.dribbble.com/userupload/22571673/file/original-8e02313ba9d03157810e1af7e8c44eda.gif" alt="Mi foto" width="260px"/>
 
 ### Lenguajes de Programación
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
