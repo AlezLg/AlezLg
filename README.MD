@@ -3,6 +3,8 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
 
+![AlezLg](https://raw.githubusercontent.com/AlezLg/AlezLg/main/200w.gif)
+
 ### 🚀 **¿Qué estoy haciendo?**
 - 💻 **Trabajando en:** Desarrollo de aplicaciones web interactivas y proyectos personales con React y Node.js.
 - 📚 **Aprendiendo:** Profundizando en desarrollo backend, IoT con Arduino y nuevas tecnologías.
