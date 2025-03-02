@@ -10,7 +10,7 @@
 
 
 ## Habilidades Técnicas 🛠️
-<img align="right" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="Mi foto" width="300px"/>
+<img align="right" src="https://digitalroar.ae/img/web-development.gif" alt="Mi foto" width="300px"/>
 
 ### Lenguajes de Programación
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
