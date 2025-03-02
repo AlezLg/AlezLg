@@ -1,4 +1,4 @@
-# ¡Hola, soy Alex! 👋
+# ¡Hola, soy Alex! 👋 <img align="right" src="<img align="right" src="https://media2.giphy.com/media/rq4iCZB9X5jZCOCGgr/giphy.gif?cid=6c09b9521z3i09h5xyly9s2oq9p0nc67uxnre73am37bpyhy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Mi foto" width="260px"/>" alt="Mi foto" width="20px"/>
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la programación y el desarrollo, con experiencia en múltiples lenguajes y tecnologías. Me encanta aprender, crear proyectos innovadores y colaborar en equipo. ¡Aquí encontrarás un resumen de mis habilidades, proyectos y cómo contactarme!
 
