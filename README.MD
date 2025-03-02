@@ -28,13 +28,10 @@
 
 ## Contacto 📫
 
-¡No dudes en contactarme si quieres colaborar, tienes alguna pregunta o simplemente quieres charlar!
+¡No dudes en contactarme si quieres colaborar, tienes alguna pregunta o simplemente quieres charlar! Estoy siempre abierto a nuevas oportunidades y conexiones.
 
 - 📧 **Email:** [frutel1234@gmail.com](mailto:frutel1234@gmail.com)
-- 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 🌐 **Portafolio:** [Mi portafolio](https://tu-portafolio.com)
-- 🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)
+- 🎮 **Discord:** alezlg
+- 📸 **Instagram:** [@alezlg](https://www.instagram.com/alezlg/)
 
 ---
-
-¡Gracias por visitar mi perfil! 😄
