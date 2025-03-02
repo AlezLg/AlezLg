@@ -10,7 +10,7 @@
 
 
 ## Habilidades Técnicas 🛠️
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9rYXg4ZmI4Z3I2azBsenFpbnM5eWx1NTRtaG9iN3RweGR0ZXEwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Mi foto" width="220px"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9rYXg4ZmI4Z3I2azBsenFpbnM5eWx1NTRtaG9iN3RweGR0ZXEwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Mi foto" width="250px"/>
 
 ### Lenguajes de Programación
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
